@@ -1,0 +1,6 @@
+{
+    "require": {
+        "linecorp/line-bot-sdk": "^6.1",
+        "endroid/qr-code": "^3.9"
+    }
+}
